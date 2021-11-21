@@ -22,3 +22,9 @@ Autohotkey script that automatically count how many pokemons you encountered.
 - If you want to **reset the counter**, just edit counter.txt and put 0 inside *(or the desired starting value)*.
 - **You can use multiple screens**, but **ensure that they have the same resolution** or the screen of the game took on screen 1 may not match with the game on screen 2 *(still resolution differences issues)*.
 - Since the script is comparing an image to your screen, **you should not change your window game size** or it will cause the script to not be able to work properly. It will compare the exact image pixels took from the previous size to the screen pixels with the new game size and it just won't match. If you still do so, you will have to take an other screen of what you want to compare.
+
+
+## Credits
+Full code from DoctorSneepy, but had the idea from a live of [Laink](https://www.twitch.tv/wankilstudio) who was hunting Snorunt.
+
+Feel free to use it, modify and share but give credits (above line).

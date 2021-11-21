@@ -25,3 +25,6 @@ Loop {
     }
     
 }
+
+;Full code from DoctorSneepy, but had the idea from a live of Laink (https://www.twitch.tv/wankilstudio) who was hunting Snorunt.
+;Feel free to use it, modify and share but give credits (above line).
