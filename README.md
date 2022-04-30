@@ -1,4 +1,4 @@
-# auto-counter-shiny-reset
+# auto-encounter-counter
 
 Autohotkey script that automatically count how many things you encountered.
 
@@ -26,7 +26,7 @@ To stop the script if you think it is causing issues, you can:
 ## How to set this up
 1. Simply **download the directory and place it wherever you want** in your drive.
 2. Do one encounter to **estimate** timers and region of the screen that you will use to compare.
-3. (Optional) Edit auto-shiny-encounter-counter.ahk to modify timers, image name, macros etc at your convenience. 
+3. (Optional) Edit auto-encounter-counter.ahk to modify timers, image name, macros etc at your convenience. 
 4. **Prepare the image**
   1. Use **PrtSc** key on your keyboard when the element you want to match with is on the screen
   2. Open an **image processing program** such as Paint, Gimp, Photoshop etc...
