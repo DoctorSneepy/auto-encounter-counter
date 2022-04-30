@@ -8,7 +8,7 @@ This script was **firstly designed for Shiny Hunting in Pokemon** but **can be u
 
 ![here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/269px-International_Pok%C3%A9mon_logo.svg.png)
 ![here](https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo-acnh.png/320px-Logo-acnh.png)
-Images from [wikipedia] (https://fr.wikipedia.org/wiki/Wikipédia:Conventions_d%27utilisation_des_images)
+Images from [wikipedia](https://fr.wikipedia.org/wiki/Wikipédia:Conventions_d%27utilisation_des_images)
 
 
 By using this script, you **ARE RESPONSIBLE** of any damages caused to your computers. 
