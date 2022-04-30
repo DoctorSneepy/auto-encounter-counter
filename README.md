@@ -6,12 +6,11 @@ Autohotkey script that automatically count how many things you encountered.
 
 This script was **firstly designed for Shiny Hunting in Pokemon** but **can be used in any context**: **Animal Crossing New Horizons Villager Hunting**, etc...
 
-<div style='display: flex;flex-direction: column;align-items: center;'>
-<div style='display: flex; align-items: center;'><div style='margin-right: 10px'><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/269px-International_Pok%C3%A9mon_logo.svg.png" alt='Pokémon Logo'></div>
-<div style='display:flex; margin-left: 10px'><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo-acnh.png/320px-Logo-acnh.png" alt='Pokémon Logo'></div></div>
+![here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/269px-International_Pok%C3%A9mon_logo.svg.png)
+![here](https://upload.wikimedia.org/wikipedia/fr/thumb/7/7f/Logo-acnh.png/320px-Logo-acnh.png)
+Images from [wikipedia] (https://fr.wikipedia.org/wiki/Wikipédia:Conventions_d%27utilisation_des_images)
 
-<p>Images from <a href='https://fr.wikipedia.org/wiki/Wikipédia:Conventions_d%27utilisation_des_images'>wikipedia</a></p>
-</div>
+
 By using this script, you **ARE RESPONSIBLE** of any damages caused to your computers. 
 If the script is **wrongly used** or on **too weak computers** it may cause **instabilities** or just **not work**.
 To stop the script if you think it is causing issues, you can:
