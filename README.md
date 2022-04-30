@@ -42,7 +42,7 @@ To stop the script if you think it is causing issues, you can:
 7. When you want to stop it, **right click on autohotkey's taskbar icon and select exit** or if not disabled use the **default macro Shift + Echap**.
 
 ## Remarks
-- Firstly, if you have any questions or issues detected, feel free to contact me at contact@doctorsneepy.fr / Twitter: (@DoctorSneepy)[https://twitter.com/DoctorSneepy] *(i will answer as fast as possible)*.
+- Firstly, if you have any questions or issues detected, feel free to contact me at contact@doctorsneepy.fr / Twitter: [@DoctorSneepy](https://twitter.com/DoctorSneepy) *(i will answer as fast as possible)*.
 - If you want to **change the tracked things** without replacing the current image, you can take an other screen and name it differently and then modify the script, line 33 and change this "image.png" to the new one.
 - If you want to **reset the counter**, just edit counter.txt and put 0 inside *(or the desired starting value)*.
 - You can have **multiple folders** to have **different versions of the script** (different images, different app sizes, different things to match, etc...). Just copy/paste your modified script then edit or re-download the original script. ![example of different scripts](https://i.imgur.com/YuxFXad.png)
